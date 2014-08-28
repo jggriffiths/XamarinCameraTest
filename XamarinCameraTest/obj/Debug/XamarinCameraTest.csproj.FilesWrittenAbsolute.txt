@@ -1,0 +1,13 @@
+/Users/justingriffiths/Projects/XamarinCameraTest/XamarinCameraTest/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/justingriffiths/Projects/XamarinCameraTest/XamarinCameraTest/bin/Debug/XamarinCameraTest.dll.mdb
+/Users/justingriffiths/Projects/XamarinCameraTest/XamarinCameraTest/bin/Debug/XamarinCameraTest.dll
+/Users/justingriffiths/Projects/XamarinCameraTest/XamarinCameraTest/bin/Debug/XamarinCameraTest.XamarinCameraTest.apk
+/Users/justingriffiths/Projects/XamarinCameraTest/XamarinCameraTest/obj/Debug/android/bin/XamarinCameraTest.XamarinCameraTest.apk
+/Users/justingriffiths/Projects/XamarinCameraTest/XamarinCameraTest/obj/Debug/res/layout/main.xml
+/Users/justingriffiths/Projects/XamarinCameraTest/XamarinCameraTest/obj/Debug/res/values/strings.xml
+/Users/justingriffiths/Projects/XamarinCameraTest/XamarinCameraTest/obj/Debug/res/drawable/icon.png
+/Users/justingriffiths/Projects/XamarinCameraTest/XamarinCameraTest/obj/Debug/R.cs.flag
+/Users/justingriffiths/Projects/XamarinCameraTest/XamarinCameraTest/bin/Debug/XamarinCameraTest.XamarinCameraTest-Signed.apk
+/Users/justingriffiths/Projects/XamarinCameraTest/XamarinCameraTest/obj/Debug/uploadflags.txt
+/Users/justingriffiths/Projects/XamarinCameraTest/XamarinCameraTest/obj/Debug/XamarinCameraTest.dll
+/Users/justingriffiths/Projects/XamarinCameraTest/XamarinCameraTest/obj/Debug/XamarinCameraTest.dll.mdb

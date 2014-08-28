@@ -1,0 +1,3 @@
+XamarinCameraTest.MainActivity;xamarincameratest.MainActivity
+XamarinCameraTest.MainView;xamarincameratest.MainView
+XamarinCameraTest.MainRenderer;xamarincameratest.MainRenderer
